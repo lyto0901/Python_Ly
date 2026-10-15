@@ -1,0 +1,12 @@
+[
+    {
+        "ID": "SV001",
+        "Username": "Nguyễn Văn An",
+        "Point": 8.5
+    },
+    {
+        "ID": "SV003",
+        "Username": "Lê Văn Dũng",
+        "Point": 7.0
+    }
+]
